@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .SSBtn{
+    @apply px-3 py-2 rounded-md bg-rose-600 text-white;
+  }
+  .SSBtnOutline {
+    @apply border border-rose-600 px-3 py-2 rounded-md hover:SSBtn text-center;
+  }
+  .SSIcon{
+    @apply w-6 h-6 ;
+  }
+  .tempDesign{
+    @apply my-6 h-40 border-2 grid place-items-center;
+  }
+
+}
+
+.active {
+  background-color: #e11d48 !important;
+  color: white !important;
+}
+/* .menu li > *:not(ul, .menu-title, details, .btn):active {
+  background-color: #3b82f6 !important;
+  color: white !important;
+} */
+
+.swiper-button-next{
+  color: #e11d48 !important;
+}
+.swiper-button-prev{
+  color: #e11d48 !important;
+}
+.swiper-pagination-bullet-active{
+  background-color: #e11d48 !important;
+}
+
+
+.MuiSlider-track{
+  background-color: #e11d48 ;
+}
+.MuiSlider-thumb::before{
+  border-color: #e11d48 !important;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+.spinner {
+  border: 4px solid rgba(255, 255, 255, 0.2);
+  border-top: 4px solid rgba(220, 38, 38, 1);
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  animation: spin 1s linear infinite;
+}

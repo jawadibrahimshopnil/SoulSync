@@ -56,7 +56,7 @@ Follow these steps to clone and run the project locally:
 ```bash
 git clone https://github.com/jawadibrahimshopnil/SoulSync.git
 ```
-### 3. Add your .env
+### 2. Add your .env
 
 ### 3. Go to client and server side and install packages and start the server
 ```bash

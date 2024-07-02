@@ -9,6 +9,15 @@ Welcome to SoulSync, the premier platform for connecting individuals looking for
 - **Live Site Link:** [SoulSync](https://soulsync-28b73.web.app/)
 - **Server Repo Link:** [SoulSync](https://github.com/programming-hero-web-course1/b9a12-server-side-jawadibrahimshopnil)
 
+## Technologies Used
+
+- **Frontend:** React, Tailwind CSS
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **Hosting:** Firebase (Client-side), Vercel (Server-side)
+- **Authentication:** JWT (JSON Web Tokens)
+- **State Management:** React Query (Tanstack Query)
+
 ## Features
 
 1. **User Registration and Login**
@@ -43,12 +52,3 @@ Welcome to SoulSync, the premier platform for connecting individuals looking for
 
 10. **Analytics and Reporting**
     - The admin dashboard features a pie chart displaying the distribution of normal users, premium users, male and female users, total biodata count, and revenue.
-
-## Technologies Used
-
-- **Frontend:** React, Tailwind CSS
-- **Backend:** Node.js, Express
-- **Database:** MongoDB
-- **Hosting:** Firebase (Client-side), Vercel (Server-side)
-- **Authentication:** JWT (JSON Web Tokens)
-- **State Management:** React Query (Tanstack Query)

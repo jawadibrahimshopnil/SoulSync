@@ -5,7 +5,7 @@ Welcome to SoulSync, the premier platform for connecting individuals looking for
 ## Admin Information
 
 - **Admin Email:** jawadibrahim@gmail.com
-- **Admin Password:** Jawad@123
+- **Admin Password:** (contact me)
 - **Live Site Link:** [SoulSync](https://soulsync-28b73.web.app/)
 - **Server Repo Link:** [SoulSync](https://github.com/programming-hero-web-course1/b9a12-server-side-jawadibrahimshopnil)
 

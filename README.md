@@ -46,6 +46,9 @@ Welcome to SoulSync, the premier platform for connecting individuals looking for
 
 8. **Analytics and Reporting**
     - The admin dashboard features a pie chart displaying the distribution of normal users, premium users, male and female users, total biodata count, and revenue.
+  
+9. **Payment Integration**
+    - Seamless and secure payment processing for contact information requests and premium memberships.
 
 ## Installation
 
